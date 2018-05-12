@@ -1,1 +1,2 @@
-Hello World!
+
+This my first time to use Git.
